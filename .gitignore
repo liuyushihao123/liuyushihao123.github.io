@@ -4,3 +4,9 @@ _site
 .vscode
 .idea
 .DS_Store
+[user]
+	name = liuyushihao123
+	email = 783148832@qq.com
+[credential]    
+
+   helper = store
