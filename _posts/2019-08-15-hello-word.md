@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的测试 jekyll"
+title: "我的测试jekyll"
 category: java 
 tags: []
 ---
