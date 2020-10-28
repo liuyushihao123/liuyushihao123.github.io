@@ -65,7 +65,7 @@ firewall-cmd --zone=public --add-port=2375/tcp --permanent
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz/R5ic1icyNBNd6DRjsOibGuiatVMevkicOLTibxotftyNlcU3yPCSu6BzdncxLccqVlS28UdvexnEic9fTaWOE31SU7J7g/640?wx_fmt=other)
+![](https://raw.githubusercontent.com/liuyushihao123/image/master/Idea%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6%2C%E9%87%8D%E5%90%AF.webp)
 
   
 
