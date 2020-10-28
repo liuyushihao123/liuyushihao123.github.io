@@ -6,8 +6,6 @@ tags:  docker
 author: DuGuYu
 ---
 
-点击上方蓝色“方志朋”，选择“设为星标”
-
 回复“666”获取独家整理的学习资料！![](https://mmbiz.qpic.cn/mmbiz_jpg/ow6przZuPIENb0m5iawutIf90N2Ub3dcPuP2KXHJvaR1Fv2FnicTuOy3KcHuIEJbd9lUyOibeXqW8tEhoJGL98qOw/640?wx_fmt=jpeg)
 
 > 转自：陶章好链接：https://juejin.im/post/5d026212f265da1b8608828b
